@@ -23,7 +23,7 @@
 import BLOGENTRIES from '@/statics/data/farmacias.json'
 
 export default {
-  name: 'home',
+  name: 'FarmaciasHome',
   computed: {
     entries() {
       return BLOGENTRIES

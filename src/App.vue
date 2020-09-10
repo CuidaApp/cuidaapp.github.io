@@ -2,9 +2,29 @@
   <v-app id="inspire">
     <v-navigation-drawer v-model="drawer" app clipped>
       <v-list dense>
-        <v-list-item link :to="rota">
+        <v-list-item link :to="rotaF">
           <v-list-item-content>
-            <v-list-item-title>TEste</v-list-item-title>
+            <v-list-item-title>Farmacias</v-list-item-title>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item link :to="rotaR">
+          <v-list-item-content>
+            <v-list-item-title>Remedios</v-list-item-title>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item link :to="rotaB">
+          <v-list-item-content>
+            <v-list-item-title>Boletim Informativo</v-list-item-title>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item link :to="rotaE">
+          <v-list-item-content>
+            <v-list-item-title>Entrevistas</v-list-item-title>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item link :to="rotaQ">
+          <v-list-item-content>
+            <v-list-item-title>Quiz</v-list-item-title>
           </v-list-item-content>
         </v-list-item>
       </v-list>
@@ -38,7 +58,11 @@ export default {
   },
   data: () => ({
     drawer: null,
-    rota: "/stories",
+    rotaR: "/remedios",
+    rotaF: "/farmacias",
+    rotaB: "/boletim",
+    rotaE: "/entrevistas",
+    rotaQ: "/quiz",
   }),
   created() {
     this.$vuetify.theme.dark = false;

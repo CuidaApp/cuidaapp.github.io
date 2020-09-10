@@ -20,10 +20,10 @@
 </template>
 
 <script>
-import BLOGENTRIES from '@/statics/data/farmacias.json'
+import BLOGENTRIES from '@/statics/data/remedios.json'
 
 export default {
-  name: 'home',
+  name: 'RemediosHome',
   computed: {
     entries() {
       return BLOGENTRIES

@@ -3,6 +3,10 @@ module.exports = {
     "vuetify"
   ],
 
+  publicPath: process.env.NODE_ENV === 'production'
+  ? '/cuidaapp/'
+  : '/',
+
   chainWebpack(config) {
     config.module.rule('md')
       .test(/\.md/)
