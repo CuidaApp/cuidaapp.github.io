@@ -2,9 +2,9 @@
   <v-app id="inspire">
     <v-navigation-drawer v-model="drawer" app clipped>
       <v-list dense>
-        <v-list-item :key="i" v-for="(route, i) in $router.options.routes" link :to="route.path">
+        <v-list-item link :to="rota">
           <v-list-item-content>
-            <v-list-item-title>{{ route.name }}</v-list-item-title>
+            <v-list-item-title>TEste</v-list-item-title>
           </v-list-item-content>
         </v-list-item>
       </v-list>
@@ -34,13 +34,14 @@
 <script>
 export default {
   props: {
-    source: String
+    source: String,
   },
   data: () => ({
-    drawer: null
+    drawer: null,
+    rota: "/stories",
   }),
   created() {
     this.$vuetify.theme.dark = false;
-  }
+  },
 };
 </script>
