@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2382f3"],{fdfe:function(t,a,e){"use strict";e.r(a);var s=function(){var t=this,a=t.$createElement,e=t._self._c||a;return e("div",{staticClass:"blogEntrevistas"},[e("router-view"),e("router-link",{staticClass:"back",attrs:{to:"/",tag:"a"}},[t._v("« Back")])],1)},n=[],r=e("2877"),c={},l=Object(r["a"])(c,s,n,!1,null,null,null);a["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d2382f3.da9e9ff9.js.map

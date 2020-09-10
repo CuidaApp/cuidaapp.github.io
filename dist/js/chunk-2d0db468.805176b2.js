@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0db468"],{"6ebe":function(t,e,a){"use strict";a.r(e);var s=function(){var t=this,e=t.$createElement,a=t._self._c||e;return a("div",{staticClass:"blogRemedios"},[a("router-view"),a("router-link",{staticClass:"back",attrs:{to:"/",tag:"a"}},[t._v("« Back")])],1)},n=[],c=a("2877"),l={},r=Object(c["a"])(l,s,n,!1,null,null,null);e["default"]=r.exports}}]);
+//# sourceMappingURL=chunk-2d0db468.805176b2.js.map
