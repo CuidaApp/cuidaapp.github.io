@@ -1,35 +1,74 @@
 <template>
   <div class="home">
-    <h1 class="headline center">v-m-blog</h1>
-    <img alt="Vue logo" src="../assets/logo.png">
-    <div class="sections">
-      <div v-for="(section, index) in Object.keys(entries)" :key="index" class="group">
-        <h2 class="center">{{section}}</h2>
-        <div class="section" v-for="entry in entries[section]" :key="entry.id">
-          <div class="entry">
-            <h3 @click="$router.push({name: entry.id})">
-              {{entry.title}}
-              <span class="subtitle">{{entry.date}}</span>
-            </h3>
-            <p>{{entry.description}}</p>
-          </div>
-        </div>
-      </div>
+    <img alt="Vue logo" src="../assets/logo.png" />
+    <br />
+    <h2 class="center">CuidaApp</h2>
+    <h2 class="center">A sua saúde na palma da mão</h2>
+    <div>
+      <v-container fluid>
+        <v-row dense>
+          <v-col v-for="card in cards" :key="card.title" :cols="5.5">
+            <v-card :to="card.link">
+              <v-img :src="card.src" class="white--text align-end"></v-img>
+              <v-card-title class="justify-center" v-text="card.title"></v-card-title>
+              <v-card-actions>
+                <v-btn block text outlined :to="card.link">Acessar</v-btn>
+                <v-spacer></v-spacer>
+              </v-card-actions>
+            </v-card>
+          </v-col>
+        </v-row>
+      </v-container>
     </div>
   </div>
 </template>
 
 <script>
-import BLOGENTRIES from '@/statics/data/farmacias.json'
+import BLOGENTRIES from "@/statics/data/farmacias.json";
 
 export default {
-  name: 'home',
+  name: "home",
   computed: {
     entries() {
-      return BLOGENTRIES
-    }
-  }
-}
+      return BLOGENTRIES;
+    },
+  },
+
+  data: () => ({
+    cards: [
+      {
+        title: "Fármacias",
+        src:
+          "https://raw.githubusercontent.com/CuidaApp/images-upload/master/img-layout/farmacia.png",
+        link: "/farmacias",
+      },
+      {
+        title: "Remédios",
+        src:
+          "https://raw.githubusercontent.com/CuidaApp/images-upload/master/img-layout/remedio.png",
+        link: "/remedios",
+      },
+      {
+        title: "Boletim de Monitoramento",
+        src:
+          "https://raw.githubusercontent.com/CuidaApp/images-upload/master/img-layout/boletim.png",
+        link: "/boletim",
+      },
+      {
+        title: "Entrevistas",
+        src:
+          "https://raw.githubusercontent.com/CuidaApp/images-upload/master/img-layout/entrevista.png",
+        link: "/entrevistas",
+      },
+      {
+        title: "Quiz",
+        src:
+          "https://raw.githubusercontent.com/CuidaApp/images-upload/master/img-layout/quiz.png",
+        link: "/quiz",
+      },
+    ],
+  }),
+};
 </script>
 <style lang="scss" scoped>
 .center {
@@ -61,14 +100,14 @@ h3 {
   }
   .subtitle {
     color: grey;
-    font-size: .98rem;
+    font-size: 0.98rem;
     float: right;
     font-weight: normal;
   }
 }
 
 p {
-  margin-top: .4rem;
+  margin-top: 0.4rem;
 }
 
 .sections {
@@ -84,5 +123,4 @@ p {
 .group {
   margin-bottom: 4rem;
 }
-
 </style>

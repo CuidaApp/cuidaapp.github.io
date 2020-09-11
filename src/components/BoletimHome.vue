@@ -1,5 +1,5 @@
 <template>
-  <div class="home">
+  <div class="boletim">
     <img alt="Vue logo" src="../assets/boletim.png">
     <div class="sections">
       <div v-for="(section, index) in Object.keys(entries)" :key="index" class="group">
