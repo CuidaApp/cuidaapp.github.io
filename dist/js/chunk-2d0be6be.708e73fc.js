@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0be6be"],{"2fd8":function(a,t,e){"use strict";e.r(t);var s=function(){var a=this,t=a.$createElement,e=a._self._c||t;return e("div",{staticClass:"blogFarmacias"},[e("router-view"),e("router-link",{staticClass:"back",attrs:{to:"/farmacias",tag:"a"}},[a._v("« Back")])],1)},c=[],n=e("2877"),r={},i=Object(n["a"])(r,s,c,!1,null,null,null);t["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d0be6be.708e73fc.js.map
