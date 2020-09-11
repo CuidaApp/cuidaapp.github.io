@@ -1,14 +1,33 @@
-# Jack Butterscotch | The Dragon
-#### June 10, 2018
+<center><h1>Nova Noticia Teste</h1></center>
+<h3>August 7, 2018</h3>
 
-In a hole there lived a tender, silver dragon named Jack Butterscotch. Not an enchanted red, stripy hole, filled with flamingos and a cold smell, nor yet a short, hairy, skinny hole with nothing in it to sit down on or to eat: it was a dragon-hole, and that means happiness.
 
-One day, after a troubling visit from the imp Clarke Blast, Jack leaves his hole and sets out in search of three happy charms. A quest undertaken in the company of ogres, wizards and sensational teens.
+Molly Thornhill suspected something was a little off when her creepy daddy tried to club her when she was just six years old. Nevertheless, she lived a relatively normal life among other humans.
 
-In the search for the imp-guarded charms, Jack Butterscotch surprises even himself with his resourcefulness and skill as a scout.
+It wasn't until she bumped into the devilishly brunette gargoyle, Bob Hemingway, that her life finally began to make sense.
 
-During his travels, Jack rescues a book, an heirloom belonging to Clarke. But when Clarke refuses to try sleeping, their friendship is over.
+However, Bob proved to be ample and seemed to have an unhealthy obsession with dancing. Molly soon learnt that Bob had taken an oath never to smoke a human being.
 
-However, Clarke is wounded at the Battle of Blenheim and the two reconcile just before Jack engages in some serious sleeping.
+When Molly's creepy daddy is injured in an unfortunate accident, Molly realises her own life is at risk.
+<br>
+<div class="containerVideo">
+  <iframe class="responsive-iframe-Video" src="https://www.youtube.com/embed/pZTJBViOoik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br>
+Despite Bob's evil eyes and whopping ears, Molly finds herself falling for the gargoyle. Only fate will decided whether he kills or protects her.
 
-Jack accepts one of the three happy charms and returns home to his hole a very wealthy dragon.
+One night, a zombie appears before Molly and warns her of a darkness within Bob. The zombie gives Molly the stripy knife - the only weapon that can defeat a brunette gargoyle.
+
+<br>
+<div class="img-config">
+  <img class="img-config" src="https://raw.githubusercontent.com/CuidaApp/images-upload/master/img-layout/boletim.png">
+</div>
+<br>
+<center>Exemplo de Titulo Centralizado!</center>
+<br>
+<div class="img-config">
+  <img class="img-config" src="https://img.elo7.com.br/product/main/29926C6/fundo-fotografico-em-tecido-paisagem-2-60x1-50m-newborn.jpg">
+</div>
+<br>
+
+Will Molly find it in herself to kill the only creature who has ever made her feel truly frightened? (Hint: yes!)

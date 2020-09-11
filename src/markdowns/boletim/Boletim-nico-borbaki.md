@@ -1,32 +1,33 @@
-# Nefarious Nico Borbaki
-#### May 5, 2018
+<center><h1>Nova Noticia Teste</h1></center>
+<h3>August 7, 2018</h3>
 
-Nico Borbaki looked at the enchanted newspaper in his hands and felt conflicted.
 
-He walked over to the window and reflected on his steam-punk surroundings. He had always hated futuristic Alpha Centauri IX with its blue, bright buildings. It was a place that encouraged his tendency to feel conflicted.
+Molly Thornhill suspected something was a little off when her creepy daddy tried to club her when she was just six years old. Nevertheless, she lived a relatively normal life among other humans.
 
-Then he saw something in the distance, or rather someone. It was the figure of Encino Slartibarfast. Encino was a clever giant with ginger fingers and sticky legs.
+It wasn't until she bumped into the devilishly brunette gargoyle, Bob Hemingway, that her life finally began to make sense.
 
-Nico gulped. He glanced at his own reflection. He was a tight-fisted, malicious, whiskey drinker with pink fingers and pointy legs. His friends saw him as a victorious, vigilant vicar. Once, he had even saved a spotless kitten that was stuck in a drain.
+However, Bob proved to be ample and seemed to have an unhealthy obsession with dancing. Molly soon learnt that Bob had taken an oath never to smoke a human being.
 
-But not even a tight-fisted person who had once saved a spotless kitten that was stuck in a drain, was prepared for what Encino had in store today.
+When Molly's creepy daddy is injured in an unfortunate accident, Molly realises her own life is at risk.
+<br>
+<div class="containerVideo">
+  <iframe class="responsive-iframe-Video" src="https://www.youtube.com/embed/pZTJBViOoik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br>
+Despite Bob's evil eyes and whopping ears, Molly finds herself falling for the gargoyle. Only fate will decided whether he kills or protects her.
 
-The drizzle rained like skipping horses, making Nico stressed.
+One night, a zombie appears before Molly and warns her of a darkness within Bob. The zombie gives Molly the stripy knife - the only weapon that can defeat a brunette gargoyle.
 
-As Nico stepped outside and Encino came closer, he could see the talented smile on his face.
+<br>
+<div class="img-config">
+  <img class="img-config" src="https://raw.githubusercontent.com/CuidaApp/images-upload/master/img-layout/boletim.png">
+</div>
+<br>
+<center>Exemplo de Titulo Centralizado!</center>
+<br>
+<div class="img-config">
+  <img class="img-config" src="https://img.elo7.com.br/product/main/29926C6/fundo-fotografico-em-tecido-paisagem-2-60x1-50m-newborn.jpg">
+</div>
+<br>
 
-"I am here because I want revenge," Encino bellowed, in an articulate tone. He slammed his fist against Nico's chest, with the force of 2094 rats. "I frigging hate you, Nico Borbaki."
-
-Nico looked back, even more stressed and still fingering the enchanted newspaper. "Encino, bastard," he replied.
-
-They looked at each other with hatred feelings, like two motionless, mighty mice shouting at a very ruthless accident, which had classical music playing in the background and two sinister uncles drinking to the beat.
-
-Nico regarded Encino's ginger fingers and sticky legs. He held out his hand. "Let's not fight," he whispered, gently.
-
-"Hmph," pondered Encino.
-
-"Please?" begged Nico with puppy dog eyes.
-
-Encino looked fuzzy, his body blushing like a bewildered, bad banana.
-
-Then Encino came inside for a nice glass of whiskey.
+Will Molly find it in herself to kill the only creature who has ever made her feel truly frightened? (Hint: yes!)

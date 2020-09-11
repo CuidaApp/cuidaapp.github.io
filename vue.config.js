@@ -4,7 +4,7 @@ module.exports = {
   ],
 
   publicPath: process.env.NODE_ENV === 'production'
-  ? '/cuidaapp/'
+  ? '/cuidaapp.github.io/'
   : '/',
 
   chainWebpack(config) {

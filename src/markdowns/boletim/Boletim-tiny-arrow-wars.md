@@ -1,19 +1,33 @@
-# Galactic Tiny Arrow Wars
-#### July 27, 2018
+<center><h1>Nova Noticia Teste</h1></center>
+<h3>August 7, 2018</h3>
 
 
-A long, long time ago in a tiny, tiny galaxy...
+Molly Thornhill suspected something was a little off when her creepy daddy tried to club her when she was just six years old. Nevertheless, she lived a relatively normal life among other humans.
 
-After leaving the quiet planet Kubasulu, a group of teens fly toward a distant speck. The speck gradually resolves into a quiet, space abbey.
+It wasn't until she bumped into the devilishly brunette gargoyle, Bob Hemingway, that her life finally began to make sense.
 
-Civil war strikes the galaxy, which is ruled by Matthew Superhalk, a sticky imp capable of impersonation and even cruelty.
+However, Bob proved to be ample and seemed to have an unhealthy obsession with dancing. Molly soon learnt that Bob had taken an oath never to smoke a human being.
 
-Terrified, a windy gnome known as Rhiannon Williams flees the Empire, with her protector, Christiana Gump.
+When Molly's creepy daddy is injured in an unfortunate accident, Molly realises her own life is at risk.
+<br>
+<div class="containerVideo">
+  <iframe class="responsive-iframe-Video" src="https://www.youtube.com/embed/pZTJBViOoik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br>
+Despite Bob's evil eyes and whopping ears, Molly finds herself falling for the gargoyle. Only fate will decided whether he kills or protects her.
 
-They head for Cambridge on the planet Saturn. When they finally arrive, a fight breaks out. Gump uses her tiny arrow to defend Rhiannon.
+One night, a zombie appears before Molly and warns her of a darkness within Bob. The zombie gives Molly the stripy knife - the only weapon that can defeat a brunette gargoyle.
 
-Gump and Gnome Rhiannon decide it's time to leave Saturn and steal a digger to shoot their way out.
+<br>
+<div class="img-config">
+  <img class="img-config" src="https://raw.githubusercontent.com/CuidaApp/images-upload/master/img-layout/boletim.png">
+</div>
+<br>
+<center>Exemplo de Titulo Centralizado!</center>
+<br>
+<div class="img-config">
+  <img class="img-config" src="https://img.elo7.com.br/product/main/29926C6/fundo-fotografico-em-tecido-paisagem-2-60x1-50m-newborn.jpg">
+</div>
+<br>
 
-They encounter a tribe of youths. Gump is attacked and the gnome is captured by the youths and taken back to Cambridge.
-
-Gump must fight to save Gnome Rhiannon but when she accidentally unearths a dirty record, the entire future of the tiny, quiet galaxy is at stake.
+Will Molly find it in herself to kill the only creature who has ever made her feel truly frightened? (Hint: yes!)
