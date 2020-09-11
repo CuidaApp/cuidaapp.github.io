@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d208879"],{a4d4:function(t,a,e){"use strict";e.r(a);var l=function(){var t=this,a=t.$createElement,e=t._self._c||a;return e("div",{staticClass:"blogBoletim"},[e("router-view"),e("router-link",{staticClass:"back",attrs:{to:"/boletim",tag:"a"}},[t._v("« Back")])],1)},n=[],s=e("2877"),c={},i=Object(s["a"])(c,l,n,!1,null,null,null);a["default"]=i.exports}}]);
-//# sourceMappingURL=chunk-2d208879.78ee0a57.js.map
