@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
+import Quiz from '../views/Quiz.vue'
 import BoletimHome from '../components/BoletimHome.vue'
 import EntrevistasHome from '../components/EntrevistasHome.vue'
 import RemediosHome from '../components/RemediosHome.vue'
@@ -106,10 +107,12 @@ const routes = [
   {
     path: '/quiz',
     name: 'Quiz',
+    component: Quiz
   }
 ]
 
 const router = new VueRouter({
+  mode: 'history',
   scrollBehavior() {
     return { x: 0, y: 0 };
   },
