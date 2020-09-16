@@ -1,12 +1,6 @@
 {
   "boletim": [
     {
-      "id": "Boletim-segunda-001",
-      "date": "16/09/2020",
-      "title": "Boletim da Segunda",
-      "description": "Encontre aqui o boletim da segunda!"
-    },
-    {
       "id": "Boletim-exemplo-001",
       "date": "16/07/2020",
       "title": "Exemplo Postagem",
