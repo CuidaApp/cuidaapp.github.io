@@ -1,6 +1,12 @@
 {
   "boletim": [
     {
+      "id": "Boletim-novo001",
+      "date": "16/07/2020",
+      "title": "Boletim Novo",
+      "description": "BOletim de de abril do dia 12 - 12"
+    },
+    {
       "id": "Boletim-novapostagem",
       "date": "",
       "title": "BOletim 11-19",
