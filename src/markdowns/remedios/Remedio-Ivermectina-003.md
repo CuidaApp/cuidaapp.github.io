@@ -6,7 +6,7 @@
   <img class="img-config" src=https://agorarn.com.br/files/uploads/2020/06/WhatsApp-Image-2020-06-06-at-14.11.10.jpeg>
 </div>
 
-### **O QUE É E PARA QUE SERVE A IVERMECTINA**
+### **O QUE É E PARA QUE SERVE A IVERMECTINA?**
 A **ivermectina** é um remédio usado no **tratamento** de vários tipos **de infestações por parasitas**, como: **piolhos**, **sarna** (doença caracterizada por intensa coceira
 na pele) e **ascaridíase**, conhecida popularmente por lombriga.
 
