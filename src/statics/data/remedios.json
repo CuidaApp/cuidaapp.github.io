@@ -1,6 +1,12 @@
 {
   "remedios": [
-   {
+    {
+      "id": "Remedio-Ivermectina-003",
+      "date": "19/09/2020",
+      "title":"Ivermectina",
+      "description": "A ivermectina é um remédio usado no tratamento de vários tipos de infecções por..."
+    },
+    {
       "id": "Remedio-Cloroquina-002",
       "date": "17/09/2020",
       "title": "Cloroquina",
