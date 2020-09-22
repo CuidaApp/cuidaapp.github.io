@@ -1,8 +1,9 @@
 <center><h1>IVERMECTINA</h1></center>
 <h3>19/09/20</h3>
+
 <br>
 <div class="img-config">
-  <img class="img-config" scr=https://agorarn.com.br/files/uploads/2020/06/WhatsApp-Image-2020-06-06-at-14.11.10.jpeg>
+  <img class="img-config" src=https://agorarn.com.br/files/uploads/2020/06/WhatsApp-Image-2020-06-06-at-14.11.10.jpeg>
 </div>
 
 ### **O QUE É E PARA QUE SERVE A IVERMECTINA**
