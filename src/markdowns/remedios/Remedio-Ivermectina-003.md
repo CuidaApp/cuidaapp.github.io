@@ -2,10 +2,8 @@
 <h3>19/09/20</h3>
 <br>
 <div class="img-config">
-  <img class="img-config" src=https://i.em.com.br/Vrfxh_Mgwt1-HB93H8OqIZYxwdM=/790x/smart/imgsapp.em.com.br/app/noticia_127983242361/2020/07/17/1167807/20200717121605945025i.jpg>
+  <img class="img-config" scr=https://agorarn.com.br/files/uploads/2020/06/WhatsApp-Image-2020-06-06-at-14.11.10.jpeg>
 </div>
-
->
 
 ### **O QUE É E PARA QUE SERVE A IVERMECTINA**
 A **ivermectina** é um remédio usado no **tratamento** de vários tipos **de infestações por parasitas**, como: **piolhos**, **sarna** (doença caracterizada por intensa coceira
