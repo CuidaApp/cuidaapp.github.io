@@ -1,5 +1,5 @@
 <center><h1>PARACETAMOL x DIPIRONA</h1></center>
-<h3>21/20</h3>
+<h3>21/09/20</h3>
 
 <br>
 <div class="img-config">
