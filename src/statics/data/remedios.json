@@ -1,5 +1,11 @@
 {
   "remedios": [
+     {
+      "id": "Remedio-Paracetamol x Dipirona-004",
+      "date": "21/09/2020",
+      "title":"Paracetamol X Dipirona",
+      "description": "Ambos os medicamentos se tratam de Medicamentos Isentos de Prescrição (MIP), podendo ..."
+    },
     {
       "id": "Remedio-Ivermectina-003",
       "date": "19/09/2020",
@@ -20,5 +26,3 @@
     }
   ]
 }
-
-
