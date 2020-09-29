@@ -5,6 +5,7 @@
 <div class="img-config">
   <img class="img-config" src=https://agorarn.com.br/files/uploads/2020/06/WhatsApp-Image-2020-06-06-at-14.11.10.jpeg>
 </div>
+Fonte: https://agorarn.com.br/files/uploads/2020/06/WhatsApp-Image-2020-06-06-at-14.11.10.jpeg
 
 ### **O QUE É E PARA QUE SERVE A IVERMECTINA?**
 A **ivermectina** é um remédio usado no **tratamento** de vários tipos **de infestações por parasitas**, como: **piolhos**, **sarna** (doença caracterizada por intensa coceira
@@ -58,6 +59,7 @@ A **fórmula química** da ivermectina é **C47H72O14** , sendo constituída por
 <div class="img-config">
   <img class="img-config" src=https://www.researchgate.net/profile/Marcos_Perez-Lopez/publication/271287315/figure/fig1/AS:392338783391744@1470552263649/Figura-1-Estructura-quimica-de-la-ivermectina-B-1a-y-B-1b-adaptado-de-Gupta-2007_Q640.jpg>
 </div>
+Fonte: https://www.researchgate.net/profile/Marcos_Perez-Lopez/publication/271287315/figure/fig1/AS:392338783391744@1470552263649/Figura-1-Estructura-quimica-de-la-ivermectina-B-1a-y-B-1b-adaptado-de-Gupta-2007_Q640.jpg
 
 Na molécula de **22,23-di-hidroavermectina B1a**, salienta-se:
 
@@ -66,6 +68,7 @@ Na molécula de **22,23-di-hidroavermectina B1a**, salienta-se:
 <div class="img-config">
   <img class="img-config" src=https://cpimg.tistatic.com/05994504/b/4/Tetrahydrofuran-Chemical.jpg>
 </div>
+Fonte: https://cpimg.tistatic.com/05994504/b/4/Tetrahydrofuran-Chemical.jpg  
 
 ##### Representação de um anel tetrahidrofurano.
 
