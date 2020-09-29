@@ -4,7 +4,7 @@
 <div class="img-config">
   <img class="img-config" src=https://statig1.akamaized.net/bancodeimagens/5l/hl/bg/5lhlbgc6chhbvgpin95xa7usj.jpg>
 </div>
-Fonte:https://statig1.akamaized.net/bancodeimagens/5l/hl/bg/5lhlbgc6chhbvgpin95xa7usj.jpg
+Fonte: https://statig1.akamaized.net/bancodeimagens/5l/hl/bg/5lhlbgc6chhbvgpin95xa7usj.jpg
 
 ### **O QUE É E PARA QUE SERVE A CLOROQUINA?** 
 
@@ -44,7 +44,7 @@ A **fórmula química** da cloroquina é **C18H26ClN3** , sendo uma **4-aminoqui
 <div class="img-config">
   <img class="img-config" src=https://media.istockphoto.com/vectors/chloroquine-skeletal-formula-and-molecular-structure-vector-id1217031728?k=6&m=1217031728&s=170667a&w=0&h=W6AyCYCY7LHZcfWpqEkKSGPy9mCeKr4i0Ch7Hqr1JnE=>
 </div>
-Fonte:https://media.istockphoto.com/vectors/chloroquine-skeletal-formula-and-molecular-structure-vector-id1217031728?k=6&m=1217031728&s=170667a&w=0&h=W6AyCYCY7LHZcfWpqEkKSGPy9mCeKr4i0Ch7Hqr1JnE=
+Fonte: https://media.istockphoto.com/vectors/chloroquine-skeletal-formula-and-molecular-structure-vector-id1217031728?k=6&m=1217031728&s=170667a&w=0&h=W6AyCYCY7LHZcfWpqEkKSGPy9mCeKr4i0Ch7Hqr1JnE=
 
   Em sua representação estão presente **2 aminas** (união de N a C), **1 imina** (união especial de N a C)  e **1 haleto** (união de Cl a C). Nela encontramos apenas **3 pontos 
   onde podem ser originadas pontes de hidrogênio**. Quanto menor a quantidade de pontes, menor a sua solubilidade em meio aquoso.
