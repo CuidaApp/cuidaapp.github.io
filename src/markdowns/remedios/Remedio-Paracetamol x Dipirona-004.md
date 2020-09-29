@@ -5,6 +5,7 @@
 <div class="img-config">
   <img class="img-config" src=https://media.gazetadopovo.com.br/2011/03/6f5fe30b64c42524d08abe2f26c59a0f-gpMedium.jpg>
 </div>
+Fonte: https://media.gazetadopovo.com.br/2011/03/6f5fe30b64c42524d08abe2f26c59a0f-gpMedium.jpg
 
 ### **O QUE SÃO E PARA QUE SERVEM O PARACETAMOL E A DIPIRONA?**
 
@@ -66,6 +67,7 @@ dos alcoóis, e a carbonila (C=O) juntamente da presença do nitrogênio (N), cl
 <div class="img-config">
   <img class="img-config" src=https://s1.static.brasilescola.uol.com.br/be/e/paracetamol%202.jpg>
 </div>
+Fonte: https://s1.static.brasilescola.uol.com.br/be/e/paracetamol%202.jpg
 
 Como se pode perceber, é uma molécula bem complexa, contendo vários grupos funcionais: grupo carbonila (C=O) e hidroxila (O-H), uma estrutura aromática (anel benzeno) e uma
 nitrila (– CN).
@@ -75,6 +77,8 @@ A fórmula molecular da Dipirona é **C13H16N3NaO4S**, de nomenclatura **[(2,3-d
 <div class="img-config">
   <img class="img-config" src=https://www.infoescola.com/wp-content/uploads/2011/10/dipirona-sodica.jpg>
 </div>
+Fonte: https://www.infoescola.com/wp-content/uploads/2011/10/dipirona-sodica.jpg
+
 
   Nela estão presentes as seguintes funções orgânicas: 
 
