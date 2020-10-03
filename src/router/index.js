@@ -1,13 +1,12 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
+import Boletim from '../views/Boletim.vue'
 import Quiz from '../views/Quiz.vue'
-import BoletimHome from '../components/BoletimHome.vue'
 import EntrevistasHome from '../components/EntrevistasHome.vue'
 import RemediosHome from '../components/RemediosHome.vue'
 import FarmaciasHome from '../components/FarmaciasHome.vue'
 import FarmaciaEntries from '../statics/data/farmacias.json';
-import BoletimEntries from '../statics/data/boletim.json';
 import RemediosEntries from '../statics/data/remedios.json';
 import EntrevistasEntries from '../statics/data/entrevistas.json';
 
@@ -24,20 +23,6 @@ const farmaciaRoutes = Object.keys(FarmaciaEntries).map(section => {
     path: `/${section}`,
     //name: section,
     component: () => import('../components/BlogFarmacias.vue'),
-    children,
-  }
-})
-
-const boletimRoutes = Object.keys(BoletimEntries).map(section => {
-  const children = BoletimEntries[section].map(child => ({
-    path: child.id,
-    name: child.id,
-    component: () => import(`../markdowns/${section}/${child.id}.md`)
-  }))
-  return {
-    path: `/${section}`,
-    //name: section,
-    component: () => import('../components/BlogBoletim.vue'),
     children,
   }
 })
@@ -90,9 +75,7 @@ const routes = [
   },
   {
     path: '/boletim',
-    component: BoletimHome,
-    meta: { showNavigation: false },
-    disable: true
+    component: Boletim,
   },
   {
     path: '/entrevistas',
@@ -102,7 +85,6 @@ const routes = [
   },
   ...farmaciaRoutes,
   ...remediosRoutes,
-  ...boletimRoutes,
   ...entrevistasRoutes,
   {
     path: '/quiz',
