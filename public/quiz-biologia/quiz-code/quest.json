@@ -1,0 +1,96 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "question": "Os últimos meses, temos sido noticiados sobre a ação infectante do coronavírus. O que se sabe até agora é que esse tipo de vírus, inicialmente identificado em Wuhan, na província de Hubei, na China, distribuiu-se por todos os continentes terrestres desencadeando uma pandemia. Mas, o que é uma pandemia?",
+            "correct_answer": "É quando uma doença que se manifesta com frequência e somente em determinada região, de causa local.",
+            "incorrect_answers": [
+                "É quando uma doença ocorre em uma determinada região manifestando surtos em grupos de indivíduos dessa mesma região ou de regiões vizinhas.",
+                "É quando uma doença se estende a níveis mundiais, ou seja, se espalha por diversas regiões do planeta.",
+                "É quando uma determinada doença atinge números expressivos dentro de uma região local e específica."
+            ]
+        },
+        {
+            "question": "Mundialmente, a SARS-CoV 2, ou simplesmente Covid-19, é reconhecida como uma doença viral infecciosa de potencial transmissão entre indivíduos, capaz gerar um quadro clínico de debilidade nos acometidos, com possibilidade de letalidade. Mas, o que significa SARS – CoV 2?",
+            "correct_answer": "Síndrome Respiratória Aguda Grave – Tipo 2 por Coronavírus.",
+            "incorrect_answers": [
+                "Síndrome Aérea Respiratória Sistêmica – Tipo 2 por Covid-19.",
+                "Síndrome Aguda Grave de Infecção Respiratória Dupla por Coronavírus.",
+                "Síndrome Asfixiante Respiratória Secundária por Covid-19."
+            ]
+        },
+        {
+            "question": "A ação infecciosa do coronavírus acomete, principalmente, a atividade respiratória, comprometendo a respiração de seus infectados em casos mais graves.  Usualmente, chamados a doença viral provocada por esse microrganismo de Covid-19, que significa:",
+            "correct_answer": "Doença viral provocada por coronavírus do tipo 19.",
+            "incorrect_answers": [
+                "Doença viral provocada por um tipo de coronavírus, descoberto no ano de 2019.",
+                "Doença viral provocada por um vírus circular, com 19 micrômetros de comprimento.",
+                "Doença viral provocada por dois grupos de coronavírus  do tipo 19."
+            ]
+        },
+        {
+            "question": "Assim como todas as doenças virais, o coronavírus desenvolve sintomas clássicos. Entre eles, NÃO PODEMOS citar:",
+            "correct_answer": "Distúrbios gastrointestinais e perda do apetite.",
+            "incorrect_answers": [
+                "Febre, coriza, tosse e dor de garganta.",
+                "Falta de ar, perda de paladar e de olfato.",
+                "Hemorragias pulmonares graves e cansaço."
+            ]
+        },
+        {
+            "question": "O retorno à rotina diária pela população ainda é um fator de grande preocupação devido à pandemia provocada pela Covid-19. Alguns cuidados básicos são essenciais para se evitar a contaminação pelo coronavírus. Entre as alternativas a seguir, NÃO CONSTITUI uma forma de contaminação pela Covid-19:",
+            "correct_answer": "Compartilhamento de objetos de uso pessoal e coletivo.",
+            "incorrect_answers": [
+                "Higienização de mãos e objetos de uso pessoal e coletivo.",
+                "Uso de transporte públicos híbridos (movido à eletricidade e a combustíveis fósseis).",
+                "Ingestão de água potável em bebedouros compartilhados."
+            ]
+        },
+        {
+            "question": "Dados mundiais apontam para mais de 1.000.000 de mortes advindas das complicações geradas pala SARS-CoV 2, ou simplesmente Covid-19. Muitas especulações podem ser feitas em relação a esse dado, EXCETO:",
+            "correct_answer": "As mortes pela Covid-19 só ocorrem entre idosos e pacientes crônicos, como diabéticos e hipertensos.",
+            "incorrect_answers": [
+                "As comorbidades nos pacientes infectados pelo coronavírus podem ser um fator de risco, mas não são determinantes para a letalidade provocada pelo vírus.",
+                "As causas da mortalidade provocada pelo coronavírus ainda não podem ser completamente identificadas e categorizadas pela equipe médica, por não haver estudos conclusivos sobre o caso.",
+                "Idosos e pacientes crônicos, como acometidos por enfisema pulmonar, hipertensos, obesos e diabéticos, constituem os principais grupos de risco para a Covid-19."
+            ]
+        },
+        {
+            "question": "Um dos testes para detecção do vírus SARS – CoV 2, causador da Covid-19, é o Teste de RT – PCR, cuja confirmação é obtida através da detecção do RNA do SARS-CoV-2 na amostra analisada, preferencialmente obtida de raspado de nasofaringe. A eficácia deste teste se dá, pois:",
+            "correct_answer": "Sinaliza a presença do material genético do coronavírus ainda vivo em amostras coletadas a partir do 12º dia após o início dos sintomas.",
+            "incorrect_answers": [
+                "Realiza fotografias microscópicas do coronavírus vivo ainda em amostras coletadas, permitindo a identificação do vírus no paciente.",
+                "Se houver material genético do SARS-CoV-2 na amostra, sondas específicas detectam a sua presença e emitem um sinal, que é captado pelo equipamento em traduzido em resultado positivo.",
+                "Promove a reprodução do DNA do coronavírus, amplificando-o e alterando sua constituição, permitindo a criação e um vírus geneticamente modificado para o combate à Covid-19."
+            ]
+        },
+        {
+            "question": "Alunos e professores poderão participar de um inquérito sorológico para monitoramento da contaminação pelo coronavírus. Os Testes Sorológicos são realizados após a 2ª semana da infecção, identificando anticorpos específicos gerados para o combate ao coronavírus. Os anticorpos que denunciam uma possível infecção por Covid-19 e que são analisados nos Testes Sorológicos, são:",
+            "correct_answer": "Basófilos e neutrófilos",
+            "incorrect_answers": [
+                "Monócitos e megacarióticos",
+                "Eosinófilos e macrófagos",
+                "Imunoglobulinas do tipo G e M."
+            ]
+        },
+        {
+            "question": "A Síndrome Respiratória Aguda Grave – Tipo 2, causada por um grupo de coronavírus, gerou uma pandemia global que atualmente afeta todos os países, gerando milhares de mortos e afetando as relações sociais e econômicas em escala mundial. Uma possível forma de controle e prevenção contra a SARS – CoV2, é:",
+            "correct_answer": "Uso de antibióticos em escala global.",
+            "incorrect_answers": [
+                "Criação de vacinas específica para a Covid-19.",
+                "Utilização de medicamentos, como a Hidroxicloroquina e Ivermectina",
+                "Injeção de soro com antígenos virais do coronavírus em pacientes sintomáticos."
+            ]
+        },
+        {
+            "question": "Algumas pandemias que já ocorreram no mundo em épocas remotas. Milhares de pessoas foram dizimadas e o período de quarentena variou, chegando até 2 anos. Entre as pandemias a seguir, a única que não ocorreu no Brasil foi:",
+            "correct_answer": "Ebola",
+            "incorrect_answers": [
+                "Covi-19",
+                "Gripe Espanhola",
+                "Gripe Russa"
+            ]
+        }
+        
+    ]
+}

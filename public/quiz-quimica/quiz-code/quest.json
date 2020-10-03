@@ -1,0 +1,59 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "question": "Qual resultado dessa soma 2+2?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "5",
+                "6",
+                "7"
+            ]
+        },
+        {
+            "question": "Qual resultado dessa soma 1+1?",
+            "correct_answer": "2",
+            "incorrect_answers": [
+                "3",
+                "4",
+                "5"
+            ]
+        },
+        {
+            "question": "De quem é a famosa frase “Penso, logo existo”?",
+            "correct_answer": "Descartes",
+            "incorrect_answers": [
+                "Platão",
+                "Sócrates",
+                "Francis Bacon"
+            ]
+        },
+        {
+            "question": "De onde é a invenção do chuveiro elétrico?",
+            "correct_answer": "Brasil",
+            "incorrect_answers": [
+                "Austrália",
+                "Itália",
+                "França"
+            ]
+        },
+        {
+            "question": "Qual o livro mais vendido no mundo a seguir à Bíblia?",
+            "correct_answer": "Dom Quixote",
+            "incorrect_answers": [
+                "O Senhor dos Anéis",
+                "O Pequeno Príncipe",
+                "Um Conto de Duas Cidades"
+            ]
+        },
+        {
+            "question": "O que a palavra legend significa em português?",
+            "correct_answer": "Lenda",
+            "incorrect_answers": [
+                "Conto",
+                "Legendário",
+                "História"
+            ]
+        }
+    ]
+}
