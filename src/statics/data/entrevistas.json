@@ -1,5 +1,11 @@
 {
   "entrevistas": [
+   {
+      "id": "Entrevistas-Retornodasaulaspresenciais-003",
+      "date": "30/09/2020",
+      "title": "Retorno das Aulas Presenciais",
+      "description": "Entrevista com a diretora da Escola Estadual de Ensino Fundamental e Médio Waldemiro Hemerly, Lucinete Marconsini, e a Secretária Municipal de Educação, Marlene Decoté, sobre o retorno das aulas presenciais no município de Rio Novo do Sul."
+    },
     {
       "id": "Entrevistas-AutomedicacaoemRioNovo-002",
       "date": "19/09/2020",
@@ -10,3 +16,4 @@
 }
 
 
+3
