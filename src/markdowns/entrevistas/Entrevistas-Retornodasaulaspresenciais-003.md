@@ -7,6 +7,6 @@ retorno das aulas presenciais no município de Rio Novo do Sul.
 
 <br>
 <div class="containerVideo">
-  <iframe class="responsive-iframe-Video" src="https://youtu.be/D4xJ8joUHzM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe class="responsive-iframe-Video" src="https://www.youtube.com/embed/D4xJ8joUHzM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br>
