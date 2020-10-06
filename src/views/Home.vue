@@ -10,7 +10,10 @@
           <v-col v-for="card in cards" :key="card.title" :cols="5.5">
             <v-card :to="card.link">
               <v-img :src="card.src" class="white--text align-end"></v-img>
-              <v-card-title class="justify-center" v-text="card.title"></v-card-title>
+              <v-card-title
+                class="justify-center"
+                v-text="card.title"
+              ></v-card-title>
               <v-card-actions>
                 <v-btn block text outlined :to="card.link">Acessar</v-btn>
                 <v-spacer></v-spacer>
@@ -24,15 +27,9 @@
 </template>
 
 <script>
-import BLOGENTRIES from "@/statics/data/farmacias.json";
-
 export default {
   name: "home",
-  computed: {
-    entries() {
-      return BLOGENTRIES;
-    },
-  },
+  computed: {},
 
   data: () => ({
     cards: [

@@ -1,8 +1,8 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/boletim.png" />
+    <img alt="Vue logo" src="../assets/farmacia.png" />
     <br />
-    <h2 class="center">Boletim de Monitoramento</h2>
+    <h2 class="center">Farmácias</h2>
     <div>
       <v-container fluid>
         <v-row dense>
@@ -46,23 +46,46 @@ export default {
   data: () => ({
     cards: [
       {
-        title: "Boletim Rio Novo Do Sul",
+        title: "Farmácia Novafar",
         src:
-          "https://raw.githubusercontent.com/CuidaApp/cuidaapp.github.io/master/src/assets/boletimrionovo.png",
-        link:
-          "http://www.rionovodosul.es.gov.br/noticia/ler/525/boletim-diario",
+          "https://raw.githubusercontent.com/CuidaApp/cuidaapp.github.io/master/src/assets/farmaNovaFar.png",
+        telFixo: "",
+        telWhats: "",
       },
       {
-        title: "Boletim Espirito Santo",
+        title: "Farmácia Paraíso",
         src:
-          "https://raw.githubusercontent.com/CuidaApp/cuidaapp.github.io/master/src/assets/boletimes.png",
-        link: "https://coronavirus.es.gov.br/painel-covid-19-es",
+          "https://raw.githubusercontent.com/CuidaApp/cuidaapp.github.io/master/src/assets/farmaParaiso.png",
+        telFixo: "",
+        telWhats: "",
       },
       {
-        title: "Boletim Brasil",
+        title: "Farmácia PharmaSul",
         src:
-          "https://raw.githubusercontent.com/CuidaApp/cuidaapp.github.io/master/src/assets/boletimbr.png",
-        link: "https://covid.saude.gov.br",
+          "https://raw.githubusercontent.com/CuidaApp/cuidaapp.github.io/master/src/assets/farmaPharmaSul.png",
+        telFixo: "",
+        telWhats: "",
+      },
+      {
+        title: "Farmácia Really",
+        src:
+          "https://raw.githubusercontent.com/CuidaApp/cuidaapp.github.io/master/src/assets/farmaReally.png",
+        telFixo: "",
+        telWhats: "",
+      },
+      {
+        title: "Farmácia Rio Novo",
+        src:
+          "https://raw.githubusercontent.com/CuidaApp/cuidaapp.github.io/master/src/assets/farmaRioNovo.png",
+        telFixo: "",
+        telWhats: "",
+      },
+      {
+        title: "Farmácia União",
+        src:
+          "https://raw.githubusercontent.com/CuidaApp/cuidaapp.github.io/master/src/assets/farmaUniao.png",
+        telFixo: "",
+        telWhats: "",
       },
     ],
   }),
