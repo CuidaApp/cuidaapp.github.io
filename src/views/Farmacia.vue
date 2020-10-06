@@ -7,11 +7,7 @@
       <v-container fluid>
         <v-row dense>
           <v-col v-for="card in cards" :key="card.title" :cols="5.5">
-            <v-card
-              :target="_blank"
-              :href="card.link"
-              rel="noopener noreferrer"
-            >
+            <v-card>
               <v-img :src="card.src" class="white--text align-end"></v-img>
               <v-card-title
                 class="justify-center"
@@ -23,12 +19,33 @@
                   text
                   outlined
                   link
-                  :href="card.link"
+                  :href="card.linkTel"
                   :target="_blank"
                   rel="noopener noreferrer"
-                  >Acessar</v-btn
                 >
-                <v-spacer></v-spacer>
+                  <v-icon> mdi-phone </v-icon>
+                  <v-card-text
+                    class="center"
+                    v-text="card.telFixo"
+                  ></v-card-text>
+                </v-btn>
+              </v-card-actions>
+              <v-card-actions>
+                <v-btn
+                  block
+                  text
+                  outlined
+                  link
+                  :href="card.linkWhats"
+                  :target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <v-icon> mdi-whatsapp </v-icon>
+                  <v-card-text
+                    class="center"
+                    v-text="card.telWhats"
+                  ></v-card-text>
+                </v-btn>
               </v-card-actions>
             </v-card>
           </v-col>
@@ -49,43 +66,55 @@ export default {
         title: "Farmácia Novafar",
         src:
           "https://raw.githubusercontent.com/CuidaApp/cuidaapp.github.io/master/src/assets/farmaNovaFar.png",
-        telFixo: "",
-        telWhats: "",
+        telFixo: "(28) 3533-1738",
+        linkTel: "tel:2835331738",
+        telWhats: "(28) 99913-3610",
+        linkWhats: "https://api.whatsapp.com/send?phone=5528999133610",
       },
       {
         title: "Farmácia Paraíso",
         src:
           "https://raw.githubusercontent.com/CuidaApp/cuidaapp.github.io/master/src/assets/farmaParaiso.png",
-        telFixo: "",
-        telWhats: "",
+        telFixo: "(28) 3533-0254",
+        linkTel: "tel:2835330254",
+        telWhats: "(28) 99971-2091",
+        linkWhats: "https://api.whatsapp.com/send?phone=5528999712091",
       },
       {
         title: "Farmácia PharmaSul",
         src:
           "https://raw.githubusercontent.com/CuidaApp/cuidaapp.github.io/master/src/assets/farmaPharmaSul.png",
-        telFixo: "",
-        telWhats: "",
+        telFixo: "(28) 3533-1156",
+        linkTel: "tel:2835331156",
+        telWhats: "(28) 99992-1777",
+        linkWhats: "https://api.whatsapp.com/send?phone=5528999921777",
       },
       {
         title: "Farmácia Really",
         src:
           "https://raw.githubusercontent.com/CuidaApp/cuidaapp.github.io/master/src/assets/farmaReally.png",
-        telFixo: "",
-        telWhats: "",
+        telFixo: "(28) 3533-1208",
+        linkTel: "tel:2835331208",
+        telWhats: "(28) 99972-6853",
+        linkWhats: "https://api.whatsapp.com/send?phone=5528999726853",
       },
       {
         title: "Farmácia Rio Novo",
         src:
           "https://raw.githubusercontent.com/CuidaApp/cuidaapp.github.io/master/src/assets/farmaRioNovo.png",
-        telFixo: "",
-        telWhats: "",
+        telFixo: "(28) 3533-1605",
+        linkTel: "tel:2835331605",
+        telWhats: "(28) 99959-1605",
+        linkWhats: "https://api.whatsapp.com/send?phone=5528999591605",
       },
       {
         title: "Farmácia União",
         src:
           "https://raw.githubusercontent.com/CuidaApp/cuidaapp.github.io/master/src/assets/farmaUniao.png",
-        telFixo: "",
-        telWhats: "",
+        telFixo: "(28) 3533-1442",
+        linkTel: "tel:2835331442",
+        telWhats: "(28) 99905-0166",
+        linkWhats: "https://api.whatsapp.com/send?phone=5528999050166",
       },
     ],
   }),
