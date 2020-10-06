@@ -4,6 +4,25 @@
     <br />
     <h2 class="center">CuidaApp</h2>
     <h2 class="center">A sua saúde na palma da mão</h2>
+    <p align="Justify">
+      A automedicação, infelizmente, é um hábito muito frequente em nosso dia a
+      dia, mas você sabe o que ela é? Ela é o ato de tomar remédios por conta
+      própria, sem qualquer orientação médica, sendo utilizada como solução para
+      o alívio imediato de alguns sintomas.
+    </p>
+    <p align="Justify">
+      Contudo, muitas vezes pode trazer riscos graves à saúde quando as dosagens
+      não são aplicadas corretamente. Para sensibilizá-lo dos riscos dessa
+      prática e trazer informação para que você possa entender tudo sobre o
+      assunto, nós criamos o CuidaApp.
+    </p>
+    <p align="Justify">
+      Nesse webapp, você terá acesso a matérias sobre remédios muito presentes
+      em nosso cotidiano, entrevistas com médicos, especialistas e autoridades
+      sobre assuntos em alta que envolvem a saúde, boletins atualizados sobre a
+      Covid em Rio Novo do Sul, no Espírito Santo e no Brasil, além de quizes
+      interativos e o contato com as farmácias do município.
+    </p>
     <div>
       <v-container fluid>
         <v-row dense>
