@@ -34,11 +34,11 @@ export default {
   data: () => ({
     cards: [
       {
-        title: "Tema: Biologia Nivel 1",
+        title: "Biologia",
         link: "/quiz-biologia/quiz-code/index.html",
       },
       {
-        title: "Tema: Química Nivel 1",
+        title: "Química",
         link: "/quiz-quimica/quiz-code/index.html",
       },
     ],
