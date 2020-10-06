@@ -2,57 +2,93 @@
     "response_code": 0,
     "results": [
         {
-            "question": "Qual resultado dessa soma 2+2?",
-            "correct_answer": "4",
+            "question": "De acordo com a Sociedade Brasileira de Reumatologia (SBR)  O uso da cloroquina (ou hidroxicloroquina) está indicado tanto para as formas mais leves quanto nas mais graves e deve ser mantido mesmo que a doença esteja sob controle (remissão), pois auxiliam na manutenção do controle do LES. Entretanto, durante a proliferação da Covid-19, iniciaram-se estudos voltados a utilização destes medicamentos com o intuito de “cura” para o vírus. Contudo,  A Sociedade Brasileira de Imunologia (SBI) divulgou o seguinte parecer cientifico: a Sociedade Brasileira de Imunologia conclui que ainda é precoce a recomendação de uso deste medicamento na COVID-19, visto que diferentes estudos mostram não haver benefícios para os pacientes que utilizaram hidroxicloroquina. Além disto, trata-se de um medicamento com efeitos adversos graves que devem ser levados em consideração. Assinale a opção que corresponde as funções orgânicas presentes na cloroquina e hidroxicloroquina :",
+            "correct_answer": "Amina, álcool, haleto orgânico",
             "incorrect_answers": [
-                "5",
-                "6",
-                "7"
+                "Amida, cetona, amina",
+                "Amida, aldeído , cetona",
+                "Haleto orgânico , Amina, éster "
             ]
         },
         {
-            "question": "Qual resultado dessa soma 1+1?",
-            "correct_answer": "2",
+            "question": "Um grande aliado no combate  contra o Coronavírus é o hipoclorito de sódio. Trata-se um produto obtido a  partir da reação do cloro(Cl2) com um solução de soda caústica (NaOH). Frequentemente usado como desinfetante e agente alvejante, ele faz com que as proteínas do vírus se “desmontem”, eliminando-os. Entretanto, este composto deve ser utilizado apenas para a desinfecção de ambientes e superfícies inanimadas, e nunca como antisséptico. A respeito do Hipoclorito de Sódio, assinale a opção que apresenta a formula e a massa molecular do composto.",
+            "correct_answer": "NaClO – 74,5 g/mol",
             "incorrect_answers": [
-                "3",
-                "4",
-                "5"
+                "NaClOH – 75,5 g/mol",
+                "NaCl – 58,5g /mol",
+                "NaClO – 75,5 g/mol"
             ]
         },
         {
-            "question": "De quem é a famosa frase “Penso, logo existo”?",
-            "correct_answer": "Descartes",
+            "question": "De acordo com dados da revista Química Nova (2020), quando se fala em higienização, limpeza e desinfeção  no Brasil, o termo álcool aparece com frequência, e referem as substâncias como  etanol (álcool etílico) e isopropanol (também denominado de álcool isopropílico). Aliados no combate a proliferação do Coronavírus, esses compostos químicos apresentam propriedades biocidas e em sua maioria apresentam baixos pontos de fusão e ebulição. A respeito dos álcoois são feitas as seguintes afirmações : I  - São bastante solúveis em águas  devido devido à formação de forças intermoleculares fortes , as ligações de hidrogênio, que ocorrem entre as hidroxilas da formula  e as moléculas de água; II- Os álcoois, em especial o etanol, se apresentam como agentes de ação biológica de largo espectro, podendo agir sobre bactérias, fungos e vírus. Quando se tratam das ações virucidas, estes apresentam uma ação bastante eficaz, com destaque para atuação sobre vírus envelopados, como o SARS-CoV-2. III-  O etanol apresenta fórmula molecular C3H8O. Dentre as afirmações acima , somente está (ão) correta (s) :",
+            "correct_answer": "I e II",
             "incorrect_answers": [
-                "Platão",
-                "Sócrates",
-                "Francis Bacon"
+                "I",
+                "I, II e III",
+                "II e  III"
             ]
         },
         {
-            "question": "De onde é a invenção do chuveiro elétrico?",
-            "correct_answer": "Brasil",
+            "question": "Recomendados pelos órgãos competentes (ANVISA, MSCBS, CDC e EPA )  no combate a proliferação micro-organismos , em especial a SARS-CoV-2, que é grande responsável pela pandemia atual, os sais quaternários de amônios se tornaram um grande aliado na vida das pessoas. Utilizados como insumos em detergentes, amaciantes e em diversos produtos de limpeza e cuidados pessoais, os sais quaternários de amônio constituem a principal classe de surfactantes catiônicos e apresentam propriedades antiestáticas e saneantes. Apesar das ações fungicida e bactericidas os sais quaternário de amônio se destacam pelo seu importante potencial virucida, com especial atuação sobre vírus envelopados, como o novo coronavírus. A respeito dos Sais  Quaternários de Amônio, assinale a alternativa correta : ",
+            "correct_answer": "São substâncias anfifílicas, as quais apresentam, em sua estrutura, uma  parte polar e hidrofílica e outra apolar e hidrofóbica;",
             "incorrect_answers": [
-                "Austrália",
-                "Itália",
-                "França"
+                "Os sais  quaternários de amônio são compostos  apenas por uma parte catiônica;",
+                "Quanto às forças intermoleculares, a parte iônica da estrutura do quaternário de amônio interage com a água por ligação iônica. ",
+                "Os sais quaternário de Amônio não possuem ações fungicidas, apenas tem um grande potencial virucida. "
             ]
         },
         {
-            "question": "Qual o livro mais vendido no mundo a seguir à Bíblia?",
-            "correct_answer": "Dom Quixote",
+            "question": "De acordo com a ANVISA e a EPA, tanto o timol quanto o triclolosan aparecem nas listas de produtos indicados na prevenção contra o novo coronavírus. Já o o-benzil-p-clorofenol aparece entre os compostos recomentados pela ANVISA e pelo MSCBS. Esses compostos apresentam em comum a função orgânica : ",
+            "correct_answer": "Fenol",
             "incorrect_answers": [
-                "O Senhor dos Anéis",
-                "O Pequeno Príncipe",
-                "Um Conto de Duas Cidades"
+                "Álcool",
+                "Haletos Orgânicos",
+                "Cetonas"
             ]
         },
         {
-            "question": "O que a palavra legend significa em português?",
-            "correct_answer": "Lenda",
+            "question": "Em virtude da emergência de saúde pública internacional relacionada ao vírus SARS-CoV2, causador da Covid 19, a Anvisa autorizou, em caráter excepcional, que empresas fabricantes de medicamentos, saneantes, cosméticos e farmácias magistrais regularizadas produzam antissépticos alcoólicos sem prévia autorização da Anvisa. Para a produção local a Anvisa autoriza como reagente qual tipo de álcool? ",
+            "correct_answer": "Álcool etílico 96%",
             "incorrect_answers": [
-                "Conto",
-                "Legendário",
-                "História"
+                "Álcool isobutílico 96%",
+                "Álcool Isopropílico 95%",
+                "Álcool etílico 70%"
+            ]
+        },
+        {
+            "question": "Conhecido comercialmente como água sanitária, o hipoclorito de sódio (NaClO)  está entre os saneantes mais utilizados, com ação desodorizante, de limpeza e de branqueamento, além de contemplar um amplo espectro antimicrobiano, com comprovada ação virucida. A respeito deste composto assinale a opção que indica os reagentes necessário para sua obtenção : ",
+            "correct_answer": "NaOH(aq) + Cl2(g)",
+            "incorrect_answers": [
+                "NaOH(aq) + NaCl(aq)",
+                "NaCl(aq) + Cl2(g)",
+                "NaO (aq) + Cl2(g)"
+            ]
+        },
+        {
+            "question": "O álcool é um microbicida com características anti-séptica e desinfetante. Porém, sua atividade antimicrobiana está condicionada à sua concentração em peso ou em volume, em relação à água. Na concentração de 70%, o produto tem a quantidade exata de água para facilitar a entrada do álcool no interior do microorganismo, seja bactéria, fungo ou vírus, como o Coronavirus .A respeito da concentração do álcool etílico 70% assinale a alternativa correta: ",
+            "correct_answer": "Álcool etílico 70º INPM (70% em massa de álcool e 30% em massa de água)",
+            "incorrect_answers": [
+                "Álcool etílico 70º INPM (70% em massa de água e 30% em massa de álcool)",
+                "Álcool etílico 70º INPM (100% em massa de álcool e de água)",
+                "Álcool etílico 70º INPM (80% em massa de álcool e 20% em massa de água)"
+            ]
+        },
+        {
+            "question": "A azitromicina é um antibiótico de amplo espectro com propriedades anti-inflamatórias e possibilidade de ter ação contra alguns vírus RNA. Demonstrou ser eficaz in vitro contra vírus como zika, rinovírus e SARS-CoV-2. Além disso, tem efeito imunomodulador e pode reduzir exacerbações em doenças crônicas das vias aéreas. Em termos químicos, a azitromicina apresenta fórmula molecular C38H72N2O12 e apresenta em sua estrutura as funções orgânicas Amina, Álcool  e Éster. Indique a opção que apresenta, corretamente  a massa molecular da azitromicina: ",
+            "correct_answer": "748,0 g/mol",
+            "incorrect_answers": [
+                "750,0 g/mol",
+                "528,0 g/mol",
+                "648,0 g/mol"
+            ]
+        },
+        {
+            "question": "Devido à fácil disseminação, contaminação e ausência de vacinas e medicamentos eficazes, seguros e que já estejam acessíveis para toda a população, o combate da COVID-19 tem se focado no tratamento de sintomas e em medidas simples de prevenção, como o uso de máscaras, o isolamento e distanciamento sociais, além do uso de agentes químicos saneantes, recomendados por órgãos competentes, empregados na higienização frequente das mãos, objetos e superfícies. Marque a altenativa que apresenta apenas saneantes dos grupos fenólicos :",
+            "correct_answer": "Timol",
+            "incorrect_answers": [
+                "Cloreto de benzalcônio",
+                "Água Sanitária",
+                "Álcool isopropílico"
             ]
         }
     ]

@@ -3,10 +3,10 @@
     "results": [
         {
             "question": "Os últimos meses, temos sido noticiados sobre a ação infectante do coronavírus. O que se sabe até agora é que esse tipo de vírus, inicialmente identificado em Wuhan, na província de Hubei, na China, distribuiu-se por todos os continentes terrestres desencadeando uma pandemia. Mas, o que é uma pandemia?",
-            "correct_answer": "É quando uma doença que se manifesta com frequência e somente em determinada região, de causa local.",
+            "correct_answer": "É quando uma doença se estende a níveis mundiais, ou seja, se espalha por diversas regiões do planeta.",
             "incorrect_answers": [
                 "É quando uma doença ocorre em uma determinada região manifestando surtos em grupos de indivíduos dessa mesma região ou de regiões vizinhas.",
-                "É quando uma doença se estende a níveis mundiais, ou seja, se espalha por diversas regiões do planeta.",
+                "É quando uma doença que se manifesta com frequência e somente em determinada região, de causa local.",
                 "É quando uma determinada doença atinge números expressivos dentro de uma região local e específica."
             ]
         },
@@ -21,9 +21,9 @@
         },
         {
             "question": "A ação infecciosa do coronavírus acomete, principalmente, a atividade respiratória, comprometendo a respiração de seus infectados em casos mais graves.  Usualmente, chamados a doença viral provocada por esse microrganismo de Covid-19, que significa:",
-            "correct_answer": "Doença viral provocada por coronavírus do tipo 19.",
+            "correct_answer": "Doença viral provocada por um tipo de coronavírus, descoberto no ano de 2019.",
             "incorrect_answers": [
-                "Doença viral provocada por um tipo de coronavírus, descoberto no ano de 2019.",
+                "Doença viral provocada por coronavírus do tipo 19.",
                 "Doença viral provocada por um vírus circular, com 19 micrômetros de comprimento.",
                 "Doença viral provocada por dois grupos de coronavírus  do tipo 19."
             ]
@@ -39,9 +39,9 @@
         },
         {
             "question": "O retorno à rotina diária pela população ainda é um fator de grande preocupação devido à pandemia provocada pela Covid-19. Alguns cuidados básicos são essenciais para se evitar a contaminação pelo coronavírus. Entre as alternativas a seguir, NÃO CONSTITUI uma forma de contaminação pela Covid-19:",
-            "correct_answer": "Compartilhamento de objetos de uso pessoal e coletivo.",
+            "correct_answer": "Higienização de mãos e objetos de uso pessoal e coletivo.",
             "incorrect_answers": [
-                "Higienização de mãos e objetos de uso pessoal e coletivo.",
+                "Compartilhamento de objetos de uso pessoal e coletivo.",
                 "Uso de transporte públicos híbridos (movido à eletricidade e a combustíveis fósseis).",
                 "Ingestão de água potável em bebedouros compartilhados."
             ]
@@ -57,27 +57,27 @@
         },
         {
             "question": "Um dos testes para detecção do vírus SARS – CoV 2, causador da Covid-19, é o Teste de RT – PCR, cuja confirmação é obtida através da detecção do RNA do SARS-CoV-2 na amostra analisada, preferencialmente obtida de raspado de nasofaringe. A eficácia deste teste se dá, pois:",
-            "correct_answer": "Sinaliza a presença do material genético do coronavírus ainda vivo em amostras coletadas a partir do 12º dia após o início dos sintomas.",
+            "correct_answer": "Se houver material genético do SARS-CoV-2 na amostra, sondas específicas detectam a sua presença e emitem um sinal, que é captado pelo equipamento em traduzido em resultado positivo.",
             "incorrect_answers": [
                 "Realiza fotografias microscópicas do coronavírus vivo ainda em amostras coletadas, permitindo a identificação do vírus no paciente.",
-                "Se houver material genético do SARS-CoV-2 na amostra, sondas específicas detectam a sua presença e emitem um sinal, que é captado pelo equipamento em traduzido em resultado positivo.",
+                "Sinaliza a presença do material genético do coronavírus ainda vivo em amostras coletadas a partir do 12º dia após o início dos sintomas.",
                 "Promove a reprodução do DNA do coronavírus, amplificando-o e alterando sua constituição, permitindo a criação e um vírus geneticamente modificado para o combate à Covid-19."
             ]
         },
         {
             "question": "Alunos e professores poderão participar de um inquérito sorológico para monitoramento da contaminação pelo coronavírus. Os Testes Sorológicos são realizados após a 2ª semana da infecção, identificando anticorpos específicos gerados para o combate ao coronavírus. Os anticorpos que denunciam uma possível infecção por Covid-19 e que são analisados nos Testes Sorológicos, são:",
-            "correct_answer": "Basófilos e neutrófilos",
+            "correct_answer": "Imunoglobulinas do tipo G e M.",
             "incorrect_answers": [
                 "Monócitos e megacarióticos",
                 "Eosinófilos e macrófagos",
-                "Imunoglobulinas do tipo G e M."
+                "Basófilos e neutrófilos"
             ]
         },
         {
             "question": "A Síndrome Respiratória Aguda Grave – Tipo 2, causada por um grupo de coronavírus, gerou uma pandemia global que atualmente afeta todos os países, gerando milhares de mortos e afetando as relações sociais e econômicas em escala mundial. Uma possível forma de controle e prevenção contra a SARS – CoV2, é:",
-            "correct_answer": "Uso de antibióticos em escala global.",
+            "correct_answer": "Criação de vacinas específica para a Covid-19.",
             "incorrect_answers": [
-                "Criação de vacinas específica para a Covid-19.",
+                "Uso de antibióticos em escala global.",
                 "Utilização de medicamentos, como a Hidroxicloroquina e Ivermectina",
                 "Injeção de soro com antígenos virais do coronavírus em pacientes sintomáticos."
             ]
@@ -91,6 +91,5 @@
                 "Gripe Russa"
             ]
         }
-        
     ]
 }

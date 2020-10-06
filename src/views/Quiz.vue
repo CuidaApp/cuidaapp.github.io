@@ -9,9 +9,14 @@
           <v-col v-for="card in cards" :key="card.title" :cols="5.5">
             <v-card link :href="card.link">
               <v-img :src="card.src" class="white--text align-end"></v-img>
-              <v-card-title class="justify-center" v-text="card.title"></v-card-title>
+              <v-card-title
+                class="justify-center"
+                v-text="card.title"
+              ></v-card-title>
               <v-card-actions>
-                <v-btn block text outlined link :href="card.link">Acessar</v-btn>
+                <v-btn block text outlined link :href="card.link"
+                  >Acessar</v-btn
+                >
                 <v-spacer></v-spacer>
               </v-card-actions>
             </v-card>
@@ -29,8 +34,12 @@ export default {
   data: () => ({
     cards: [
       {
-        title: "Tema: Conhecimentos Gerais",
-        link: "/quiz-static/quiz-code/index.html",
+        title: "Tema: Biologia Nivel 1",
+        link: "/quiz-biologia/quiz-code/index.html",
+      },
+      {
+        title: "Tema: Química Nivel 1",
+        link: "/quiz-quimica/quiz-code/index.html",
       },
     ],
   }),
