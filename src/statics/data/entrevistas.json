@@ -1,6 +1,12 @@
 {
   "entrevistas": [
-   {
+    {
+      "id": "Entrevistas-MitosETabus-004",
+      "date": "06/10/2020",
+      "title": "Mitos e Tabus: Possíveis Tratamentos Para Covid",
+      "description": "Conversa com o Dr.Ewertton Gabriel, médico atuante na batalha da Covid. Esclarecimento de algumas dúvidas e questionamentos referentes à automedicação."
+    },
+    {
       "id": "Entrevistas-Retornodasaulaspresenciais-003",
       "date": "30/09/2020",
       "title": "Retorno das Aulas Presenciais",
@@ -14,6 +20,5 @@
     }
   ]
 }
-
 
 
