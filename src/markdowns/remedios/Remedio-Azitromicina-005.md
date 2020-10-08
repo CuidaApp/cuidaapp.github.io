@@ -2,9 +2,9 @@
 <h3>08/10/20</h3>
 <br>
 <div class="img-config">
-  <img class="img-config" src=https://i.em.com.br/btXXveupQ-bjDIPNrrkpLOVZ7CA=/620x372/smart/imgsapp.em.com.br/app/noticia_127983242361/2020/09/05/1182781/20200904230045786072i.jpg>
+  <img class="img-config" src=https://images.webfarmas.com/7898060132501.jpg>
 </div>
-Fonte: https://i.em.com.br/btXXveupQ-bjDIPNrrkpLOVZ7CA=/620x372/smart/imgsapp.em.com.br/app/noticia_127983242361/2020/09/05/1182781/20200904230045786072i.jpg
+Fonte: https://images.webfarmas.com/7898060132501.jpg
 
 ### **O QUE É E PARA QUE SERVE A AZITROMICINA?** 
 
