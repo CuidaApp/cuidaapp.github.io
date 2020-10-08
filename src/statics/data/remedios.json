@@ -1,6 +1,12 @@
 {
   "remedios": [
-     {
+    {
+      "id": "Remedio-Azitromicina-005",
+      "date": "08/10/2020",
+      "title":"Azitromicina",
+      "description": "A azitromicina é um antibiótico usado no tratamento de várias infecções, como..."
+    },
+    {
       "id": "Remedio-ParacetamolxDipirona-004",
       "date": "21/09/2020",
       "title":"Paracetamol X Dipirona",
@@ -20,3 +26,6 @@
     }
   ]
 }
+
+ 
+   
