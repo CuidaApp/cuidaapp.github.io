@@ -57,13 +57,13 @@ seu bem e o daqueles ao seu redor.
 A **fórmula química** do ibuprofeno é **C13H18O2** , e apresenta a seguinte fórmula estrutural: 
 <br>
 <div class="img-config">
-  <img class="img-config" src=https://github.com/CuidaApp/images-upload/blob/master/img-remedios/ibuprofeno.jpg>
+  <img class="img-config" src=https://raw.githubusercontent.com/CuidaApp/images-upload/master/img-remedios/ibuprofeno.jpg>
 </div>
 
 Em sua estrutura, apresenta 6 carbonos sp3, 7 carbonos sp2, e nenhum carbono sp1. No total, possui 33 ligações sigmas e 4 ligações pi.
 <br>
 <div class="img-config">
-  <img class="img-config" src=https://github.com/CuidaApp/images-upload/blob/master/img-remedios/ibuprofeno%202.0.jpg>
+  <img class="img-config" src=https://raw.githubusercontent.com/CuidaApp/images-upload/master/img-remedios/ibuprofeno%202.0.jpg>
 </div>
   
   ### **Bons estudos!**
