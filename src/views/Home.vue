@@ -1,12 +1,9 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
+    <img alt="Vue logo" src="../assets/cuidaapplogo2.png" />
     <br />
     <h2 class="center">CuidaApp</h2>
     <h2 class="center">A sua saúde na palma da mão</h2>
-    <div class="grupo">
-      <img class="grupo" src=../assets/GrupoIMG.jpeg>
-    </div>
     <p align="Justify">
       A automedicação, infelizmente, é um hábito muito frequente em nosso dia a
       dia, mas você sabe o que ela é? Ela é o ato de tomar remédios por conta
