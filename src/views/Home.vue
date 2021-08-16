@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/cuidaapplogo2.png"/>
+    <img alt="Vue logo" src="../assets/cuidaapplogo2.png" width=300px />
     <br />
     <h2 class="center">A sua saúde na palma da mão</h2>
     <p align="Justify">
