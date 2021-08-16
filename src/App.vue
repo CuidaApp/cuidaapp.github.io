@@ -51,7 +51,7 @@
     </v-main>
 
     <v-footer app class="justify-center">
-      <span>&copy; 2020 | CuidaApp</span>
+      <span>&copy; 2021 | CuidaApp</span>
     </v-footer>
   </v-app>
 </template>
